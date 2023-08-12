@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-Size: 1rem;
+  color: #292b2c;
+  background-color: #fff;
+  
+  
+}
+.App {
+  justify-content: center;
+
+}
+.App-header{
+  justify-content: center;
+}
